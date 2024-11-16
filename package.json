@@ -1,0 +1,22 @@
+{
+  "name": "@ssk101/steaminator",
+  "version": "1.0.0",
+  "author": "ssk101",
+  "license": "MIT",
+  "type": "module",
+  "exports": "./index.js",
+  "module": "index.js",
+  "bugs": {
+    "url": "https://github.com/ssk101/steaminator/issues"
+  },
+  "homepage": "https://github.com/ssk101/steaminator#readme",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "engines": {
+    "node": ">= 22.11.0"
+  },
+  "dependencies": {
+
+  }
+}
